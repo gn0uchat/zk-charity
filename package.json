@@ -1,0 +1,26 @@
+{
+  "name": "zk-charity",
+  "version": "1.0.0",
+  "description": "zk-charity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gn0uchat/zk-charity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gn0uchat/zk-charity/issues"
+  },
+  "homepage": "https://github.com/gn0uchat/zk-charity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0"
+  }
+}
